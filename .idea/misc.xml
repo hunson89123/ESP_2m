@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2m/app/src/main/res/drawable/app_icon_background.xml" value="0.187" />
+        <entry key="..\:/2m/app/src/main/res/drawable/bg_ice_select.xml" value="0.36" />
+        <entry key="..\:/2m/app/src/main/res/drawable/bg_sugar_select.xml" value="0.36" />
+        <entry key="..\:/2m/app/src/main/res/drawable/ic_record.xml" value="0.36" />
+        <entry key="..\:/2m/app/src/main/res/drawable/ic_start.xml" value="0.36" />
+        <entry key="..\:/2m/app/src/main/res/layout/activity_cart.xml" value="0.294570329200513" />
+        <entry key="..\:/2m/app/src/main/res/layout/activity_choose.xml" value="0.294570329200513" />
+        <entry key="..\:/2m/app/src/main/res/layout/activity_choose2.xml" value="0.33" />
+        <entry key="..\:/2m/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/2m/app/src/main/res/layout/activity_main.xml" value="0.2611827141774071" />
+        <entry key="..\:/2m/app/src/main/res/layout/activity_order.xml" value="0.294570329200513" />
+        <entry key="..\:/2m/app/src/main/res/layout/activity_record.xml" value="0.294570329200513" />
+        <entry key="..\:/Hunson/ESP/2m/app/src/main/res/drawable/ic_back.xml" value="0.2985" />
+        <entry key="..\:/Hunson/ESP/2m/app/src/main/res/layout/activity_cart.xml" value="0.294570329200513" />
+        <entry key="..\:/Hunson/ESP/2m/app/src/main/res/layout/activity_choose.xml" value="0.294570329200513" />
+        <entry key="..\:/Hunson/ESP/2m/app/src/main/res/layout/activity_home.xml" value="0.294570329200513" />
+        <entry key="..\:/Hunson/ESP/2m/app/src/main/res/layout/activity_main.xml" value="0.294570329200513" />
+        <entry key="..\:/Hunson/ESP/2m/app/src/main/res/layout/activity_order.xml" value="0.294570329200513" />
+        <entry key="..\:/Hunson/ESP/2m/app/src/main/res/layout/activity_record.xml" value="0.294570329200513" />
+        <entry key="..\:/s1410932008m/app/src/main/res/layout/activity_choose.xml" value="0.294570329200513" />
+        <entry key="..\:/s1410932008m/app/src/main/res/layout/activity_main.xml" value="0.35885416666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

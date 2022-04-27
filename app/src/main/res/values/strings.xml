@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">阿里山鐵道紅茶</string>
+    <string name="app_order">阿里山鐵道紅茶-開始點餐</string>
+    <string name="app_choose">阿里山鐵道紅茶-飲品調整</string>
+    <string name="app_record">阿里山鐵道紅茶-點餐紀錄</string>
+    <string name="app_cart">阿里山鐵道紅茶-購物車</string>
+    <!--介面字串-->
+    <string name="str_record">上次點餐</string>
+    <string name="str_start">開始點餐</string>
+    <string name="str_goCart">查看購物車</string>
+    <string name="str_selectI">冰塊調整</string>
+    <string name="str_selectS">甜度調整</string>
+    <string name="str_plus">＋</string>
+    <string name="str_minus">－</string>
+    <string name="str_addCart">加入購物車</string>
+    <string name="str_cancel">取消</string>
+    <string name="str_drinkName">--</string>
+    <string name="str_nonRecord">尚無紀錄</string>
+    <string name="str_completeOrder">完成點餐</string>
+    <string name="str_total">小計</string>
+    <string name="str_defaultTotal">$0</string>
+    <string name="str_defaultOTime">上次訂餐時間：----/--/-- --:--:--</string>
+    <!--飲料分類字串-->
+    <string name="tea">找好茶</string>
+    <string name="milk">找鮮奶</string>
+    <string name="wm">找冬瓜</string>
+    <string name="recommend">店長推薦</string>
+    <!--找好茶-->
+    <string name="t1">$20 紅茶冰</string>
+    <string name="t2">$30 三花奶茶</string>
+    <string name="t3">$35 凍檸茶</string>
+    <string name="t4">$35 養樂多紅茶</string>
+    <!--找鮮奶-->
+    <string name="m1">$35 鐵道鮮奶茶</string>
+    <string name="m2">$45 特濃鮮奶茶</string>
+    <string name="m3">$35 冬瓜鮮奶</string>
+    <string name="m4">$45 特濃冬瓜鮮奶</string>
+    <!--找冬瓜-->
+    <string name="w1">$20 冬瓜茶</string>
+    <string name="w2">$20 冬瓜紅茶</string>
+    <string name="w3">$30 冬瓜奶茶</string>
+    <string name="w4">$35 冬瓜檸檬</string>
+    <!--店長推薦-->
+    <string name="r1">$25 珍珠紅茶</string>
+    <string name="r2">$35 珍珠奶茶</string>
+    <string name="r3">$40 珍珠鮮奶茶</string>
+    <string name="r4">$35 珍珠冬瓜奶茶</string>
+    <string name="r5">$40 珍珠冬瓜鮮奶</string>
+</resources>
